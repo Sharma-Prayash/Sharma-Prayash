@@ -61,16 +61,14 @@ I'm **Kshitij Sharma** — a software developer with a keen interest in cybersec
 
 ---
 
-## 📊 GitHub Stats
+## 📊 At a Glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharma-Prayash&show_icons=true&hide_border=true&title_color=5b8cff&icon_color=37d3c0&text_color=8ea1bd&bg_color=0a0e1a" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Prayash&layout=compact&hide_border=true&title_color=5b8cff&text_color=8ea1bd&bg_color=0a0e1a" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sharma-Prayash&hide_border=true&background=0a0e1a&stroke=213049&ring=37d3c0&fire=5b8cff&currStreakLabel=5b8cff&sideLabels=8ea1bd&dates=61728e&currStreakNum=e7eefb&sideNums=e7eefb" alt="streak" />
+![Followers](https://img.shields.io/github/followers/Sharma-Prayash?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=5b8cff&labelColor=0a0e1a)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20VAPT-37d3c0?style=for-the-badge&labelColor=0a0e1a)
+![CGPA](https://img.shields.io/badge/CGPA-8.5-5b8cff?style=for-the-badge&labelColor=0a0e1a)
+![Building](https://img.shields.io/badge/Building-DRM%20%40%20Okynus-1a2740?style=for-the-badge&logo=rocket&logoColor=37d3c0)
 
 </div>
 
