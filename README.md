@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=37D3C0&center=true&vCenter=true&width=680&height=45&lines=Software+Developer+%7C+Security+Enthusiast;Co-Founder+%26+CTO+%40+Okynus.tech;Exploring+VAPT%2C+Networking+%26+Deep-Tech" alt="Kshitij Sharma" />
 
 <p>
+  <a href="https://sharma-prayash.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5b8cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sharma-prayash.github.io/KshitijSharma_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-1a2740?style=for-the-badge&logo=adobeacrobatreader&logoColor=37d3c0" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/kshitij-sharma04" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5b8cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharmakshitij313@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-37d3c0?style=for-the-badge&logo=gmail&logoColor=0a0e1a" alt="Email" /></a>
   <a href="https://www.okynus.com/" target="_blank"><img src="https://img.shields.io/badge/Okynus.tech-1a2740?style=for-the-badge&logo=rocket&logoColor=37d3c0" alt="Okynus" /></a>
